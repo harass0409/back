@@ -1,0 +1,114 @@
+table {
+	background-color: #3DA5C7;
+}
+.fon {
+	background-image: url(img/zadnik.jpg);
+	width: auto;
+	height: 1500px;
+	align-items: center;
+	justify-content: center;
+}
+.number {
+font-size: 24pt;
+margin-right: 10px;;
+float: left;
+color: #e67b09;
+
+}
+.delete {
+color: red;
+}
+.delete:hover {
+	color: #FF4040;
+}
+.edit {
+color: #F3D544;
+}
+.edit:hover {
+	color: #F9E273;
+}
+.tabel {
+	margin: auto;
+	background-color: #e67b09;
+	padding: auto;
+	font-size: 24pt;
+	width: 1200px;
+}
+.tabel a{
+	margin: auto;
+}
+.tabel table {
+	font-size: 24pt;
+	border-radius: 20px;
+	margin: auto;
+}
+.welcome {
+	text-align: center;
+	width: 500px;
+	height: 550px;
+	margin: auto;
+	border: 3px white solid;
+	border-radius: 20px;
+	font-family: 'Playfair Display', serif;
+	background-color: #3DA5C7;
+	font-size: 25pt;
+	align-items: center;
+	justify-content: center;
+	
+	padding-top: 10px;
+}
+.welcome input {
+	margin-top: 20px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 25pt;
+	background-color: #3DA5C7;
+	color: white;
+	margin: auto;
+}
+.welcome input:hover {
+	color: #c3c3c3;
+}
+.welcome select {
+	margin-top: 20px;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 25pt;
+	background-color: #3DA5C7;
+
+}
+.reg {
+	color: white;
+	margin-bottom: 10px;
+}
+.reg:hover {
+	color: #e67b09;
+}
+.welcome a {
+	text-decoration:none;
+	color: white;
+}
+.welcome a:hover {
+	color: #c3c3c3;
+}
+.balance {
+	margin: auto;
+	width: 300px;
+	height: 350px;
+}
+.add {
+	font-size: 24pt;
+	text-align: center;
+	margin: 0 auto;
+	width: 1920px;
+	height: 500px;
+}
+.add input {
+	font-size: 24pt;
+	margin-top: 10px;
+	text-align: center;
+}
+.add select {
+	font-size: 24pt;
+	margin-top: 10px;
+}
